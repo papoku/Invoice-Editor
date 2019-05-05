@@ -1,0 +1,114 @@
+{
+  "invoicelist": [
+    {
+      "type": "o",
+      "number": "101",
+      "name": "White",
+      "unitPrice": "10",
+      "unitPriceWithVat": "15.00",
+      "qty": "20",
+      "amount": "200.00",
+      "vat": "15",
+      "amountWithVat": "150.00",
+      "account": [
+        {
+          "taxRate": "24% tax",
+          "value": "24"
+        },
+        {
+          "taxRate": "15% tax",
+          "value": "15"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "o",
+      "number": "102",
+      "name": "Red",
+      "unitPrice": "12",
+      "unitPriceWithVat": "7.50",
+      "qty": "10",
+      "amount": "120.00",
+      "vat": "15",
+      "amountWithVat": "75.00",
+      "account": [
+        {
+          "taxRate": "24% tax",
+          "value": "24"
+        },
+        {
+          "taxRate": "15% tax",
+          "value": "15"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "type": "o",
+      "number": "103",
+      "name": "Blue",
+      "unitPrice": "3.10",
+      "unitPriceWithVat": "13.39",
+      "qty": "18",
+      "amount": "55.80",
+      "vat": "24",
+      "amountWithVat": "241.02",
+      "account": [
+        {
+          "taxRate": "24% tax",
+          "value": "24"
+        },
+        {
+          "taxRate": "15% tax",
+          "value": "15"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "o",
+      "number": "104",
+      "name": "Yellow",
+      "unitPrice": "5.16",
+      "unitPriceWithVat": "10.94",
+      "qty": "15",
+      "amount": "45.590",
+      "vat": "24",
+      "amountWithVat": "164.10",
+      "account": [
+        {
+          "taxRate": "24% tax",
+          "value": "24"
+        },
+        {
+          "taxRate": "15% tax",
+          "value": "15"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "type": "o",
+      "number": "105",
+      "name": "Purple",
+      "unitPrice": "3.00",
+      "unitPriceWithVat": "4.50",
+      "qty": "12",
+      "amount": "30.00",
+      "vat": "15",
+      "amountWithVat": "54.00",
+      "account": [
+        {
+          "taxRate": "24% tax",
+          "value": "24"
+        },
+        {
+          "taxRate": "15% tax",
+          "value": "15"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}

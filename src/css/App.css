@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.App > div {
+  text-align: center;
+}
+
+.bodyWrapper {
+  max-width:1300px;
+  min-height: 650px;
+  margin: auto;
+  padding:  20px 5px 20px 10px;
+}
+
+@media (max-width: 600px) {
+  .bodyWrapper {
+    max-width:500px;
+    margin: auto;
+    padding:  5px 2px 5px 2px;
+  }
+}
